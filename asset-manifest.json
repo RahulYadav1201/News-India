@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RahulYadav1201/News-India.git/static/css/main.073c9b0a.css",
+    "main.js": "/RahulYadav1201/News-India.git/static/js/main.76520934.js",
+    "static/js/787.f7ab4736.chunk.js": "/RahulYadav1201/News-India.git/static/js/787.f7ab4736.chunk.js",
+    "index.html": "/RahulYadav1201/News-India.git/index.html",
+    "main.073c9b0a.css.map": "/RahulYadav1201/News-India.git/static/css/main.073c9b0a.css.map",
+    "main.76520934.js.map": "/RahulYadav1201/News-India.git/static/js/main.76520934.js.map",
+    "787.f7ab4736.chunk.js.map": "/RahulYadav1201/News-India.git/static/js/787.f7ab4736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.76520934.js"
+  ]
+}
